@@ -18,7 +18,7 @@ intents.members = True
 #test
 #server
 #switch
-test = False
+test = True
 command_prefix_set =""
 if test:
     command_prefix_set = "??"
