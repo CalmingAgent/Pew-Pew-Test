@@ -1,0 +1,5 @@
+*.vscode/settings/json
+*.pyc
+.DS_Store
+/koten.json
+/kotenTrue.json
